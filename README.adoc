@@ -248,6 +248,16 @@ Phone : +88017xxxxxxx
 
 https://example.com/[Website]
 
+// start from here
+
+|Kawsar Ali
+|Software Engineer at Scube Technologies Ltd.
+|Flutter , Kotlin , API , Firebase , MVC , MVVM, SQLITE, Hive, Git , C , Dart , Swift , C# , PostgreSQL , SQL , ASP.NET Core 6, Docker, Heroku, Postman, Jira, Trello.
+|kawsar.ali.cse@gmail.com
+https://github.com/Kawsar07 https://bd.linkedin.com/in/kawsar-ali-93396313a
+Phone : +88017xxxxxxx
+
+// end of a table
 
 |===
 
